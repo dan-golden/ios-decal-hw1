@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>604C21E5-2EB6-41EB-85CB-51848760BF2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>debugging</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200</key>
+		<string>https://github.com/dan-golden/ios-decal-hw1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>debugging.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dan-golden/ios-decal-hw1</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hw1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
